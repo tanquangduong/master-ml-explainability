@@ -14,5 +14,5 @@ Master explainability for ML-based algorithms
   - A global explainability strategy: Provide the details of the formulation of a model as a whole.
   - A local explainability strategy: Provide the rationale for one or more individual predictions made by our trained model.
 ![problem](./figs/ml-explainability-techniques.PNG)
-- Practical use-case with LIME (Local Interpretable Model-Agnostic Explanations)
-- 
+- LIME (Local Interpretable Model-Agnostic Explanations)
+- SHAP (SHapley Additive exPlanations)
